@@ -24,4 +24,11 @@ These scripts demonstrate low-level socket programming using Python's built-in `
 Run the server:
 
 ```bash
+
 python TCP_server.py
+
+## 🖥️ Demo
+
+Here’s a live run of the TCP server and client:
+
+![Demo](demo.png)
